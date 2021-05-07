@@ -1,4 +1,4 @@
-![github-banner](https://user-images.githubusercontent.com/63799/117485055-eed50f00-af35-11eb-9a2a-436789bb3a99.png)
+![github-banner](https://user-images.githubusercontent.com/63799/117485509-702ca180-af36-11eb-8580-a4e87c850530.png)
 
 
 - 🔭 I’m currently working on https://intellum.com, https://farkwar.com, https://photos.tuckerbradford.com
