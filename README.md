@@ -1,5 +1,6 @@
 ![github-banner](https://user-images.githubusercontent.com/63799/117485509-702ca180-af36-11eb-8580-a4e87c850530.png)
 
+# VP Engineering - [Copia](https://gocopia.com/)
 
 - 🔭 I’m currently working on https://gocopia.com, https://farkwar.com, https://photos.tuckerbradford.com
 - 🌱 I’m currently learning React, Kotlin
