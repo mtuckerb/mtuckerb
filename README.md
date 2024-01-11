@@ -2,10 +2,10 @@
 
 # VP Engineering 
 
-- 🔭 I’m currently working on https://gocopia.com, https://farkwar.com, https://photos.tuckerbradford.com
-- 🌱 I’m currently learning React, Kotlin
+- 🔭 I’m currently working on https://farkwar.com, https://photos.tuckerbradford.com
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on anything socially progressive
-- 🤔 I’m looking for help with React, Kotlin
+- 🤔 I’m looking for help with Rust
 - 💬 Ask me about relationships, management, Ruby
 - 📫 How to reach me: http://tuckerbradford.com/card
 - 😄 Pronouns: he/him
